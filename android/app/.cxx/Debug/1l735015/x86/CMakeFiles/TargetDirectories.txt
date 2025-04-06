@@ -1,0 +1,2 @@
+D:/flutter/flutterprojects/BOOTCAMP/bmi_calculator1/android/app/.cxx/Debug/1l735015/x86/CMakeFiles/edit_cache.dir
+D:/flutter/flutterprojects/BOOTCAMP/bmi_calculator1/android/app/.cxx/Debug/1l735015/x86/CMakeFiles/rebuild_cache.dir
